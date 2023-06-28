@@ -1,0 +1,95 @@
+.container {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+.heder {
+    background: black;
+    padding: 32px 0;
+    font-family: "Caprasimo";
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.name {
+    color: rgb(240, 255, 255);
+    font-size: 30px;
+}
+
+.flex2 {
+    display: flex;
+    gap: 20px;
+}
+
+.child {
+    color: azure;
+    font-size: 30px;
+    font-weight: 400px;
+}
+
+.green {
+    background: rgb(151, 214, 26);
+    padding: 112px 0;
+    font-family: "PT Sans Narrow";
+}
+
+.child-flex {
+    font-size: 70px;
+    color: black;
+    font-weight: 700;
+}
+
+.child-text {
+    font-size: 50px;
+    color: black;
+    font-weight: 700;
+}
+
+.flexgreen {
+    display: flex;
+    gap: 222px;
+    align-items: center;
+}
+
+.yellow {
+    background: yellow;
+    padding: 50px 0;
+    font-family: "roboto";
+}
+
+.flexyellow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.child-yellow {
+    font-size: 50px;
+    color: black;
+    align-items: center;
+}
+
+.web {
+    font-size: 100px;
+    color: black;
+    font-weight: 700;
+}
+
+.footer {
+    background: black;
+    padding: 25px 0 65px;
+    font-family: "PT Sans Narrow";
+}
+
+.flexfooter {
+    display: flex;
+    justify-content: space-between;
+}
+
+.end {
+    font-size: 35px;
+    color: white;
+}
